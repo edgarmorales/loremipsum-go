@@ -1,12 +1,12 @@
 package loremipsum
 
 // Lorem ipsum dolor sit amet
-func generateText() string {
+func GenerateText() string {
 	return "Etiam auctor non urna sit amet posuere. Nunc tincidunt ornare laoreet."
 }
 
 // Longer Lorem text.
-func generateLongText() string {
+func GenerateLongText() string {
 	return "Cras aliquet mollis ipsum, nec ullamcorper magna cursus sit amet. Nulla placerat orci tortor, vitae " +
 		"luctus odio laoreet a. Proin consectetur metus eget orci posuere, vitae laoreet arcu fermentum. Mauris " +
 		"neque dolor, dictum id purus semper, placerat feugiat nunc. Aliquam elementum sodales neque. Fusce augue " +
