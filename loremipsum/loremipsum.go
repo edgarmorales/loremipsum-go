@@ -1,4 +1,4 @@
-package main
+package loremipsum
 
 // Lorem ipsum dolor sit amet
 func generateText() string {
