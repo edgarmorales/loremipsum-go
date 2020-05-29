@@ -6,5 +6,5 @@ import (
 
 // Main app entry point
 func main() {
-	println(loremipsum.GenerateText())
+	println(loremipsum.GenerateBaconIpsumText())
 }
